@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'RPG',
+    'O que significa a sigla RPG?',
+    'Role-Playing Game (Jogo de Interpretação de Papéis).'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'RPG',
+    'Qual é o papel principal de um Mestre (ou Narrador) em um jogo de RPG?',
+    'O Mestre descreve o mundo, interpreta os personagens não jogadores (NPCs), narra os eventos e aplica as regras do sistema. Ele guia a história para os jogadores.'
 )
 
 criaCartao(
