@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Em que período da história japonesa a classe samurai começou a se consolidar?',
+    'No período Heian (794-1185).'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Samurais',
+    'Qual era a arma principal de um samurai?',
+    'A katana, uma espada longa, curva e de fio único, era considerada a "alma do samurai".'
 )
